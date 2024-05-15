@@ -1,3 +1,3 @@
 User-agent: *
 Disallow: /404.html
-Sitemap: https://arriellam.github.io/hugo-chrome-extension/sitemap.xml
+Sitemap: https://arriellam.github.io/hugo-tabtracker/sitemap.xml
