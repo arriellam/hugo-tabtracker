@@ -1,4 +1,4 @@
-# hugo-mock-landing-page
+# tab-tracker-chrome-extension-landing-page
 
 Title: TabTracker
 Author: Maya, Arriella, Sid (Team 15)
